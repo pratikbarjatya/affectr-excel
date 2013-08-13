@@ -11,11 +11,14 @@ The plugin requires [Microsoft .NET Framework 4.5](http://www.microsoft.com/en-g
 
 The client has been tested on
 
-* Windows 7 Professional SP1
 * Windows 7 Ultimate SP1
+* Windows 7 Professional SP1
+* Windows 7 Home Premium SP1
 
-* Office Excel 2010
+* Office Excel 2013 Professional Plus
 * Office Excel 2013 Home Premium
+* Office Excel 2010
+* Office Excel 2007 SP3
 
 # Licence
 
