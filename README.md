@@ -2,6 +2,7 @@ affectr-excel
 =============
 
 A simple Microsoft Excel plugin for calling the TheySay AffectR [TheySay AffectR API](http://docs.theysay.apiary.io).
+
 The plugin submits requests from individual data cells to the API asynchronously.
 
 # Dependencies
