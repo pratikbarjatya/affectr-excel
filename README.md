@@ -15,6 +15,7 @@ The client has been tested on
 * Windows 7 Professional SP1
 * Windows 7 Home Premium SP1
 
+
 * Office Excel 2013 Professional Plus
 * Office Excel 2013 Home Premium
 * Office Excel 2010
