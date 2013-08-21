@@ -1,6 +1,3 @@
-# This setting tells git to always normalize the files specified. When committed they are stored with LF, on checkout they are converted to the OS's native line endings.
-* text
-
 # Files that will always have CRLF line endings.
 *.sln text eol=crlf
 *.suo text eol=crlf
@@ -8,3 +5,6 @@
 
 # Binaries
 *.exe binary
+
+# Files committed with LF. On checkout, they are converted to the OS's native line endings.
+* text
